@@ -1,5 +1,5 @@
 {
-  "name": "first-app",
+  "name": "rc05_events_usestatehook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,11 +1,16 @@
+// import Events from "./1-events/Events"
+// import Counter from "./2-classComponent/Counter"
+import UseStateCounter from "./3-useState/UseStateCounter"
+import UseStateObject from "./3-useState/UseStateObject"
+
 function App() {
-  //? js kodları
   return (
-    //? JSX (Javascript - HTML)
-    <div className="App">
-      <h1>Hello React</h1>
+    <div>
+      {/* <Events />
+      <Counter /> */}
+      {/* <UseStateCounter /> */}
+      <UseStateObject />
     </div>
   )
 }
-
 export default App
